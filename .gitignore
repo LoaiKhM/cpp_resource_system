@@ -1,0 +1,5 @@
+client.exe
+server.exe
+g++
+obj/
+bin/
